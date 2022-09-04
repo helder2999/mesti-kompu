@@ -1,0 +1,8 @@
+{
+  "name": "mesti.kompu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ee4f45ff"
+}
